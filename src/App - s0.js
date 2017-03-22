@@ -59,10 +59,6 @@ class Game extends React.Component {
 
 // ========================================
 
-ReactDOM.render(
-  <Game />,
-  document.getElementById('container')
-);
 
 class App extends Component {
   render() {
